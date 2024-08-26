@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author prade
- *
- */
-module SampleJavaPrograms {
-}
